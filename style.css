@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: #fefefe;
+}
+  
+  
+.special-heading {
+    color: red;
+}
+  
+.header {
+    color: violet;
+    background-color: grey;
+}
+  
+.main {
+    width: 1000px;
+}
+  
