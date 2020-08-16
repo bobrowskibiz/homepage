@@ -3,15 +3,21 @@ body {
   background-color: #fefefe;
 }
 
-.special-heading {
+.main__header {
   color: red;
 }
 
-.header {
+.main__heading {
   color: violet;
   background-color: grey;
 }
 
 .main {
-  width: 1000px;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+
+.navigation__link {
+    color: red;
 }
