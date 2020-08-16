@@ -1,19 +1,17 @@
 body {
-    font-family: sans-serif;
-    background-color: #fefefe;
+  font-family: sans-serif;
+  background-color: #fefefe;
 }
-  
-  
+
 .special-heading {
-    color: red;
+  color: red;
 }
-  
+
 .header {
-    color: violet;
-    background-color: grey;
+  color: violet;
+  background-color: grey;
 }
-  
+
 .main {
-    width: 1000px;
+  width: 1000px;
 }
-  
